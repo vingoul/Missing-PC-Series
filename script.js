@@ -9,20 +9,8 @@ var json = [
 
     },
     {
-        "type": "Heritage Prints Indian States",
-        "values": ["Karnataka", "Punjab"]
-    },
-    {
         "type": "Loupaper",
         "values": ["Alaska", "California", "Colorado", "Connecticut", "Florida", "Georgia", "Kentucky", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "New Jersey", "New Mexico", "New York", "Ohio", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Washington"]
-    },
-    {
-        "type": "WordCloud",
-        "values": [“Armenia“,  “Belarus“, “Bosnia and Herzegovina“, “Brunei“, “Chile“, “Colombia“, “Croatia“, “Democratic Republic of the Congo“, “Egypt“, “Iceland“, “Iraq“, “Madagascar“, “Moldova“, “Monaco“, “New Zealand“, “Rwanda“, “Saudi Arabia“, “Slovakia“, “South Africa“, “Trinidad and Tobago“, “North Macedonia“, “Peru 1 (Lima) “, “Peru 2 (Machu Picchu) “, “Belgium 1 (Brugge) “]
-    },
-    {
-        "type": "Missing LivWan Illustrations",
-        "values": ["Mexico", "Stranger Things Hawkins", "France Food", "South Korea Food", "Argentina", "Italy", "Iceland", "Paris", "Czech Republic", "Cuba", "Notting Hill", "Elephant and Castle", "Brazil", "Greece"]
     }
 ]
 
