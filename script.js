@@ -27,7 +27,12 @@ var json = [
      {
         "type": "Test Again",
         "values": ["blr", "Chn", "hyd", "connect", "FLO", "GEO", "Kentucky", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "New Jersey", "New Mexico", "New York", "Ohio", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Washington"]
+    },
+    {
+        "type": "Missing LivWan Illustrations",
+        "values": ["Mexico", "Stranger Things Hawkins", "France Food", "South Korea Food", "Argentina", "Italy", "Iceland", "Paris", "Czech Republic", "Cuba", "Notting Hill", "Elephant and Castle", "Brazil", "Greece"]
     }
+
 ]
 
 
