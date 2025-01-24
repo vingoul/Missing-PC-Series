@@ -17,12 +17,8 @@ var json = [
         "values": ["Alaska", "California", "Colorado", "Connecticut", "Florida", "Georgia", "Kentucky", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "New Jersey", "New Mexico", "New York", "Ohio", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Washington"]
     },
     {
-        "type": "wc",
-        "values": ["blr", "California", "Colorado", "Connecticut", "Florida", "Georgia", "Kentucky", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "New Jersey", "New Mexico", "New York", "Ohio", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Washington"]
-    },
-    {
-        "type": "Missing National Symbols",
-        "values": [“National Animal Belarus, European Bison”, “National Bird Belarus, White Stork”, “National Bird Japan, Green Pheasant”, “National Fish Japan, Nishikigoi”, “National Animal Poland, European Bison”, “National Bird Poland, White-tailed Eagle”, “National Animal Russia, Eurasian Brown Bear”, “National Flower Russia, Chamomile”, “National Animal United Kingdom, The Lion”, “National Animal United Kingdom 2. British Bulldog”, “National Flowere United Kingdom, Tudor Rose”]
+        "type": "WordCloud",
+        "values": [“Armenia“,  “Belarus“, “Bosnia and Herzegovina“, “Brunei“, “Chile“, “Colombia“, “Croatia“, “Democratic Republic of the Congo“, “Egypt“, “Iceland“, “Iraq“, “Madagascar“, “Moldova“, “Monaco“, “New Zealand“, “Rwanda“, “Saudi Arabia“, “Slovakia“, “South Africa“, “Trinidad and Tobago“, “North Macedonia“, “Peru 1 (Lima) “, “Peru 2 (Machu Picchu) “, “Belgium 1 (Brugge) “]
     },
     {
         "type": "Missing LivWan Illustrations",
