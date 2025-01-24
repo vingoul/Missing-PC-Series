@@ -22,7 +22,7 @@ var json = [
     },
     {
         "type": "Missing National Symbols",
-        "values": [“National Animal of Belarus - European Bison”, “National Bird of Belarus – White Stork”, “National Bird of Japan – Green Pheasant”, “National Fish of Japan - Nishikigoi”, “National Animal of Poland – European Bison”, “National Bird of Poland – White-tailed Eagle”, “National Animal of Russia – Eurasian Brown Bear”, “National Flower of Russia – Chamomile”, “National Animal of the United Kingdom – The Lion”, “National Animal of the United Kingdom 2 – British Bulldog”, “National Flower of the United Kingdom – Tudor Rose”]
+        "values": [“National Animal Belarus, European Bison”, “National Bird Belarus, White Stork”, “National Bird Japan, Green Pheasant”, “National Fish Japan, Nishikigoi”, “National Animal Poland, European Bison”, “National Bird Poland, White-tailed Eagle”, “National Animal Russia, Eurasian Brown Bear”, “National Flower Russia, Chamomile”, “National Animal United Kingdom, The Lion”, “National Animal United Kingdom 2. British Bulldog”, “National Flowere United Kingdom, Tudor Rose”]
     },
     {
         "type": "Missing LivWan Illustrations",
