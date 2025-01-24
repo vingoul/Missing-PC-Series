@@ -24,9 +24,9 @@ var json = [
         "type": "Test",
         "values": ["blr", "Chn", "hyd", "Connecticut", "Florida", "Georgia", "Kentucky", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "New Jersey", "New Mexico", "New York", "Ohio", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Washington"]
     },
-     {
-        "type": "Test Again",
-        "values": ["blr", "Chn", "hyd", "connect", "FLO", "GEO", "Kentucky", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "New Jersey", "New Mexico", "New York", "Ohio", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Washington"]
+    {
+        "type": "Missing National Symbols",
+        "values": [“National Animal of Belarus – European Bison”, “National Bird of Belarus – White Stork”, “National Bird of Japan – Green Pheasant”, “National Fish of Japan - Nishikigoi”, “National Animal of Poland – European Bison”, “National Bird of Poland – White-tailed Eagle”, “National Animal of Russia – Eurasian Brown Bear”, “National Flower of Russia – Chamomile”, “National Animal of the United Kingdom – The Lion”, “National Animal of the United Kingdom 2 – British Bulldog”, “National Flower of the United Kingdom – Tudor Rose”]
     },
     {
         "type": "Missing LivWan Illustrations",
