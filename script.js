@@ -16,13 +16,9 @@ var json = [
         "type": "Loupaper",
         "values": ["Alaska", "California", "Colorado", "Connecticut", "Florida", "Georgia", "Kentucky", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "New Jersey", "New Mexico", "New York", "Ohio", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Washington"]
     },
-     {
+    {
         "type": "wc",
         "values": ["blr", "California", "Colorado", "Connecticut", "Florida", "Georgia", "Kentucky", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "New Jersey", "New Mexico", "New York", "Ohio", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Washington"]
-    },
-     {
-        "type": "Test",
-        "values": ["blr", "Chn", "hyd", "Connecticut", "Florida", "Georgia", "Kentucky", "Louisiana", "Maine", "Maryland", "Michigan", "Minnesota", "New Jersey", "New Mexico", "New York", "Ohio", "Pennsylvania", "South Carolina", "Tennessee", "Texas", "Washington"]
     },
     {
         "type": "Missing National Symbols",
