@@ -19,8 +19,15 @@ var json = [
     {
         "type": "Missing ICONS",
         "values": ["Afghanistan", "Armenia", "Austria", "Azerbaijan", "Bosnia and Herzegovina", "Brazil", "Chile", "Colombia", "Cuba", "Denmark", "Dominican Republic", "Georgia", "Iceland", "Kazakhstan", "Kosovo", "Latvia", "Liechtenstein", "Lithuania", "Luxembourg", "Mexico", "Morocco", "Myanmar", "New Zealand", "Peru", "Poland", "Romania", "Serbia", "South Africa", "Sri Lanka", "Tajikistan", "Turkey", "United Arab Emirates", "United Kingdom", "Vietnam"]
+    },
+    {
+        "type": "Missing WOW",
+        "values": ["Austria", "Brazil", "Brunei", "Bulgaria", "Cambodia", "Chile", "Croatia", "Cyprus", "Denmark", "Estonia", "Georgia", "Iceland", "Israel", "Latvia", "Lithuania", "Macedonia", "Mexico", "Moldova", "Montenegro", "Morocco", "Peru", "Philippines", "South Africa", "Sri Lanka", "Sweden", "Switzerland", "Tunisia", "Ukraine", "United Arab Emirates", "Vatican City", "Vietnam"]
+    },
+    {
+        "type": "Missing WOW Cuisines",
+        "values": ["Greek", "Japanese", "Mexican", "Polish", "Russian", "Turkish", "Vietnamese"]
     }
-
 ]
 
 
