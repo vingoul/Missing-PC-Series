@@ -18,8 +18,8 @@ var json = [
         "values": ["Argentina", "Armenia", "Austria", "Azerbaijan", "Barbados", "Bolivia", "Colombia", "Costa Rica", "Cuba", "Ecuador", "Kazakhstan", "Kyrgyzstan", "Latvia", "Mauritius", "Mexico", "Moldova", "Romania", "South Africa", "Tajikistan", "Turkey", "Spain Bullfighter (for GF) "]
     },
     {
-        "type" : "Missing ICONS"
-        "values": ["Afghanistan", "Armenia”, "Austria", "Azerbaijan", "Bosnia and Herzegovina", "Brazil", "Chile", "Colombia", "Cuba", "Denmark", "Dominican Republic", "Georgia", "Iceland", "Kazakhstan", "Kosovo", "Latvia", "Liechtenstein", "Lithuania", "Luxembourg", "Mexico", "Morocco", "Myanmar", "New Zealand", "Peru", "Poland", "Romania", "Serbia", "South Africa", "Sri Lanka", "Tajikistan", "Turkey", "United Arab Emirates", "United Kingdom", "Vietnam"]
+        "type": "Missing ICONS"
+        "values": ["Afghanistan", "Armenia", "Austria", "Azerbaijan", "Bosnia and Herzegovina", "Brazil", "Chile", "Colombia", "Cuba", "Denmark", "Dominican Republic", "Georgia", "Iceland", "Kazakhstan", "Kosovo", "Latvia", "Liechtenstein", "Lithuania", "Luxembourg", "Mexico", "Morocco", "Myanmar", "New Zealand", "Peru", "Poland", "Romania", "Serbia", "South Africa", "Sri Lanka", "Tajikistan", "Turkey", "United Arab Emirates", "United Kingdom", "Vietnam"]
     }
 
 ]
