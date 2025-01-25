@@ -54,8 +54,99 @@ var json = [
 {
 "type": " Missing World Explorer",
 "values": ["Kazakhstan", "Moldova", "Mozambique", "Norway", "Singapore", "Ukraine", "United Kingdom"]
+},
+{
+"type": "Missing MOTW",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing MOTW - UK Regions",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing MOTW - Germany States",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing MOTW - Netherlands Provinces",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing MOTW - Belgium Province",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing MOTW - Swiss Cantons",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing MOTW - US States",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing MOTW EU – Pre Brexit",
+"values": ["Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic (Czechia)", "Denmark", "Estonia", "Finland", "France", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Sweden", "United Kingdom"]
+},
+    {
+"type": "Missing MOTW EU – Post Brexit",
+"values": ["Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"]
+},
+{
+"type": "Missing EU United in Diversity",
+"values": ["Austria", "Croatia", "Denmark", "Latvia", "Slovakia", "Sweden"]
+},
+{
+"type": "Missing Step to",
+"values": ["Placeholder"]
+},
+    {
+"type": " Missing CCUN",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing World Fashion Historical",
+"values": ["Placeholder"]
+},
+    {
+"type": " Missing Blue Cats WT",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing WonderPost",
+"values": ["Placeholder"]
+},
+    {
+"type": " Missing WonderFest",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing WonderTrip",
+"values": ["Placeholder"]
+},
+    {
+"type": " Missing LivWan",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing National Symbols",
+"values": ["Placeholder"]
+},
+    {
+"type": " Missing Fantasy Art Keep the Cat",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing Fantasy Mail Delivery",
+"values": ["Placeholder"]
+},
+    {
+"type": " Missing Futuristic National Symbols",
+"values": ["Placeholder"]
+},
+{
+"type": "Missing Titina and Friends",
+"values": ["Placeholder"]
 }
-
 ]
 
 
