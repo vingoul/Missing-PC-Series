@@ -18,7 +18,7 @@ var json = [
     },
     {
         “type”: “Missing Greetings From “,
-        “value”: [“Argentina”, “Armenia”, “Austria”, “Azerbaijan”, “Barbados”, “Bolivia”, “Colombia”, “Costa Rica”, “Cuba”, “Ecuador”, “Kazakhstan”, “Kyrgyzstan”, “Latvia”, “Mauritius”, “Mexico”, “Moldova”, “Romania”, “South Africa”, “Tajikistan”, “Turkey”, “Spain Bullfighter (for GF) ”]
+        “values”: [“Argentina”, “Armenia”, “Austria”, “Azerbaijan”, “Barbados”, “Bolivia”, “Colombia”, “Costa Rica”, “Cuba”, “Ecuador”, “Kazakhstan”, “Kyrgyzstan”, “Latvia”, “Mauritius”, “Mexico”, “Moldova”, “Romania”, “South Africa”, “Tajikistan”, “Turkey”, “Spain Bullfighter (for GF) ”]
     }
 ]
 
