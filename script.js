@@ -97,51 +97,51 @@ var json = [
 },
 {
 "type": "Missing Step to",
-"values": ["Placeholder"]
+"values": ["Australia", "Belarus", "Brazil", "Canada", "China", "Czech Republic (Czechia) ", "Indonesia", "Ireland", "Italy", "Poland", "Russia"]
 },
     {
 "type": " Missing CCUN",
-"values": ["Placeholder"]
+"values": ["Austria", "Egypt", "Hungary", "Ireland", "Japan", "Kazakhstan", "Moldova", "New Zealand", "Poland", "Slovakia", "South Africa", "Turkey", "United Arab Emirates", "Vietnam"]
 },
 {
 "type": "Missing World Fashion Historical",
-"values": ["Placeholder"]
+"values": ["Hungary", "Japan", "Moldova", "Singapore", "United Kingdom"]
 },
     {
 "type": " Missing Blue Cats WT",
-"values": ["Placeholder"]
+"values": ["Austria", "Belarus", "Egypt", "Italy", "Mexico", "Portugal", "Romania", "Spain", "Turkey", "UAE", "Belgium", "Australia", "Brazil", "South Korea", "Argentina"]
 },
 {
 "type": "Missing WonderPost",
-"values": ["Placeholder"]
+"values": ["Algeria", "Andorra", "Antigua", "Argentina", "Aruba", "Azores", "Bangladesh", "Barbados", "Belarus", "Belize", "Bosnia", "British Virgin Islands", "Cambodia", "Colombia", "Croatia", "Cuba", "Denmark", "Dominica", "El Salvador", "Eswatini", "Greenland", "Grenada", "Guam", "Guatemala", "Guyana", "Honduras", "Hungary", "Iran", "Iraq", "Israel", "Jamaica", "Kazakhstan", "Kosovo", "Kyrgyzstan", "Laos", "Latvia", "Libya", "Macau (China)", "Madagascar", "Madeira", "Malawi", "Maldives", "Malta", "Moldova", "Mongolia", "Montenegro", "Mozambique", "Myanmar", "Nepal", "New Zealand", "Nicaragua", "North Korea", "North Macedonia", "Pakistan", "Palau", "Palestine", "Panama", "Papua New Guinea", "Peru", "Puerto Rico", "San Marino", "Serbia", "Sierra Leone", "Slovakia", "St Vincent", "The Gambia", "Tunisia", "Turkey", "US Virgin Islands", "Uzbekistan", "Wales", "Zambia", "Mallorca", "Uruguay"]
 },
     {
 "type": " Missing WonderFest",
-"values": ["Placeholder"]
+"values": ["Christmas", "Easter Day", "Halloween", "New Year Eve", "Thanksgiving", "Argentina - Buenos Aires Tango Festival", "Austria - Vienna Ball Season", "Canada - Canada Day", "China - Chinese New Year", "Costa Rica - Fiestas De Palmares", "Czech Rep - Masopust", "Denmark - Roskilde Festival", "England - Bonfire Night", "Finland - Midsummer (Juhannus) ", "Germany - Oktoberfest", "Greece - Dekapentavgoustos", "Hawaiian Island - Merrie Monarch Festival", "Hong Kong - Dragon Boat Festival", "Ireland - St. Patrick’s Day", "Italy - Venice Carnival", "Japan - Cherry Blosson Festival", "Macau - Macau Grand Prix", "Malaysia - Hari Raya Aidilfitri", "Mexico - Day of the Dead", "New Zealand - Waitangi Day", "Norway - Syttende Mai", "Peru - Inti Raymi", "Portugal - Festa De Sao Joao", "Russia - Maslenitsa", "Scotland - Hogmanay", "Spain - La Tomatina", "Sweden - Midsommar", "Taiwan - Mid-Autumn Festival", "Thailand - Songkran", "USA - Independence Day", "Valentine's Day"]
 },
 {
 "type": "Missing WonderTrip",
-"values": ["Placeholder"]
+"values": ["Afghanistan", "Andorra", "Argentina", "Australia", "Austria", "Bangladesh", "Belgium", "Belize", "Brazil", "Brunei", "Bulgaria", "Burundi", "Canada", "Chile", "China", "Croatia", "Czech Republic (Czechia)", "Denmark", "Egypt", "England", "Finland", "Georgia", "Germany", "Greece", "Hong Kong (China)", "Hungary", "Iceland", "India", "Indonesia", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Kenya", "Latvia", "Lebanon", "Liechtenstein", "Lithuania", "Luxembourg", "Madagascar", "Malaysia", "Poland", "Portugal", "Singapore", "The Netherlands", "United States"]
 },
     {
 "type": " Missing LivWan",
-"values": ["Placeholder"]
+"values": ["Mexico", "Stranger Things Hawkins", "France Food", "South Korea Food", "Argentina", "Italy", "Iceland", "Paris", "Czech Republic", "Cuba", "Notting Hill", "Elephant and Castle", "Brazil", "Greece"]
 },
 {
 "type": "Missing National Symbols",
-"values": ["Placeholder"]
+"values": ["National Animal of Belarus – European Bison", "National Bird of Belarus – White Stork", "National Bird of Japan – Green Pheasant", "National Fish of Japan - Nishikigoi", "National Animal of Poland – European Bison", "National Bird of Poland – White-tailed Eagle", "National Animal of Russia – Eurasian Brown Bear", "National Flower of Russia – Chamomile", "National Animal of the United Kingdom – The Lion", "National Animal of the United Kingdom 2 – British Bulldog", "National Flower of the United Kingdom – Tudor Rose"]
 },
     {
 "type": " Missing Fantasy Art Keep the Cat",
-"values": ["Placeholder"]
+"values": ["Australia v01", "Australia v02", "Austria", "Belgium", "Bulgaria", "Canada v02", "China v01", "China v02", "China v03", "Croatia", "Cyprus v01", "Cyprus v02", "Czechia", "Denmark", "Estonia", "Finland", "France v01", "Germany v01", "Germany v02", "Germany v03", "Greece", "Hungary v01", "Hungary v02", "India v01", "India v02", "Indonesia v01", "Indonesia v02", "Indonesia v03", "Ireland v01", "Ireland v02", "Italy", "Japan v01", "Japan v02", "Latvia", "Lithuania", "Luxembourg v01", "Luxembourg v02", "Malaysia v02", "Malta", "Moldova v01", "Moldova v02", "Norway v01", "Norway v02", "Poland v01", "Poland v02", "Portugal v01", "Portugal v02", "Romania v01", "Romania v02", "Singapore v01", "Singapore v02", "Slovakia", "Spain v01", "Spain v02", "Sweden", "Switzerland v01", "Switzerland v02", "Taiwan", "Thassos, Greece v01", "Thassos, Greece v02", "Ukraine v01", "Ukraine v02", "United Kingdom v01", "United Kingdom v02", "United States v01", "United States v02"]
 },
 {
 "type": "Missing Fantasy Mail Delivery",
-"values": ["Placeholder"]
+"values": ["Albania", "Australia", "Austria", "Belgium", "Bulgaria", "Canada", "China", "Croatia", "Czech", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hong Kong", "Hungary", "Indonesia", "Ireland", "Israel", "Italy", "Japan", "Latvia", "Luxembourg", "Malaysia", "Malta", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", "Romania", "Serbia", "Singapore", "Slovakia", "Slovenia", "South Korea", "Spain", "Switzerland", "Taiwan", "Thailand", "Ukraine", "USA", "Vietnam"]
 },
     {
 "type": " Missing Futuristic National Symbols",
-"values": ["Placeholder"]
+"values": ["Albania", "Australia", "Bulgaria", "Canada", "China", "Croatia", "Czech", "Denmark", "Estonia", "Finland", "France", "Germany V3", "Greece", "Hong Kong", "Hungary", "Indonesia", "Ireland", "Israel", "Italy", "Japan", "Latvia", "Luxembourg", "Malaysia", "Malta", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", "Romania", "Serbia", "Singapore", "Slovenia", "Slovakia", "South Korea", "Spain V1", "Spain V2", "Switzerland", "Taiwan", "Thailand", "UAE", "Ukraine", "USA V1", "USA V2", "USA V3", "Vietnam"]
 },
 {
 "type": "Missing Titina and Friends",
