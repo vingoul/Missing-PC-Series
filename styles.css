@@ -38,7 +38,7 @@ h3 {
 }
 
 #searchInput:focus {
-    border-color: #80bdff; /* Blue border on focus */
+    border-color: #B2BEB5; /* Ash Grey border on focus */
     outline: none; /* Remove default outline */
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Subtle shadow */
 }
