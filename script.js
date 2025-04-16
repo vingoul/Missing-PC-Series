@@ -9,7 +9,7 @@ var json = [
     },
     {
         "type": "Missing ICONS",
-        "values": ["Afghanistan", "Armenia", "Austria", "Azerbaijan", "Bosnia and Herzegovina", "Brazil", "Chile", "Colombia", "Cuba", "Denmark", "Dominican Republic", "Georgia", "Iceland", "Kazakhstan", "Kosovo", "Latvia", "Liechtenstein", "Lithuania", "Luxembourg", "Mexico", "Morocco", "Myanmar", "New Zealand", "Peru", "Poland", "Romania", "Serbia", "South Africa", "Sri Lanka", "Tajikistan", "Turkey", "United Arab Emirates", "United Kingdom", "Vietnam"]
+        "values": ["Afghanistan", "Armenia", "Austria", "Azerbaijan", "Bosnia and Herzegovina", "Brazil", "Chile", "Colombia", "Cuba", "Denmark", "Dominican Republic", "Georgia", "Iceland", "Kazakhstan", "Kosovo", "Latvia", "Liechtenstein", "Lithuania", "Luxembourg", "Mexico", "Morocco", "Myanmar", "New Zealand", "Peru", "Poland", "Romania", "Serbia", "South Africa", "Sri Lanka", "Tajikistan", "Turkey", "United Arab Emirates", "United Kingdom"]
     },
     {
         "type": "Missing WOW",
@@ -41,7 +41,7 @@ var json = [
 },
 {
 "type": "Missing FOTW ASEAN",
-"values": ["Brunei", "Cambodia", "Laos", "Myanmar", "Vietnam"]
+"values": ["Brunei", "Cambodia", "Laos", "Myanmar"]
 },
 {
 "type": "Missing COTW",
@@ -101,7 +101,7 @@ var json = [
 },
     {
 "type": " Missing CCUN",
-"values": ["Austria", "Egypt", "Hungary", "Ireland", "Japan", "Kazakhstan", "Moldova", "New Zealand", "Poland", "Slovakia", "South Africa", "Turkey", "United Arab Emirates", "Vietnam"]
+"values": ["Austria", "Egypt", "Ireland", "Japan", "Kazakhstan", "Moldova", "New Zealand", "Slovakia", "South Africa", "Turkey", "United Arab Emirates", "Vietnam"]
 },
 {
 "type": "Missing World Fashion Historical",
@@ -117,11 +117,11 @@ var json = [
 },
     {
 "type": " Missing WonderFest",
-"values": ["Christmas", "Easter Day", "Halloween", "New Year Eve", "Argentina - Buenos Aires Tango Festival", "Austria - Vienna Ball Season", "Canada - Canada Day", "China - Chinese New Year", "Costa Rica - Fiestas De Palmares", "Denmark - Roskilde Festival", "Greece - Dekapentavgoustos", "Hawaiian Island - Merrie Monarch Festival", "Hong Kong - Dragon Boat Festival", "Ireland - St. Patrick’s Day", "Macau - Macau Grand Prix", "Malaysia - Hari Raya Aidilfitri", "Mexico - Day of the Dead", "New Zealand - Waitangi Day", "Norway - Syttende Mai", "Peru - Inti Raymi", "Portugal - Festa De Sao Joao", "Russia - Maslenitsa", "Scotland - Hogmanay", "Spain - La Tomatina", "Sweden - Midsommar", "Taiwan - Mid-Autumn Festival", "Thailand - Songkran", "Chile -Fiestas Patrias", "Latvia - Jani (Mid Summer)", "Lithuania - Statehood Day", "Palau - Palauan Traditional Leaders' Day", "Philippines - The Sinulog Festival", "United Arab Emirates - Liwa Date Festival", "Valentine's Day"]
+"values": ["Christmas", "Halloween", "New Year Eve", "Argentina - Buenos Aires Tango Festival", "Austria - Vienna Ball Season", "Canada - Canada Day", "China - Chinese New Year", "Costa Rica - Fiestas De Palmares", "Denmark - Roskilde Festival", "Greece - Dekapentavgoustos", "Hawaiian Island - Merrie Monarch Festival", "Hong Kong - Dragon Boat Festival", "Macau - Macau Grand Prix", "Mexico - Day of the Dead", "New Zealand - Waitangi Day", "Norway - Syttende Mai", "Peru - Inti Raymi", "Portugal - Festa De Sao Joao", "Russia - Maslenitsa", "Spain - La Tomatina", "Sweden - Midsommar", "Taiwan - Mid-Autumn Festival", "Thailand - Songkran", "Chile -Fiestas Patrias", "Latvia - Jani (Mid Summer)", "Lithuania - Statehood Day", "Palau - Palauan Traditional Leaders' Day", "Philippines - The Sinulog Festival", "United Arab Emirates - Liwa Date Festival", "Valentine's Day"]
 },
 {
 "type": "Missing WonderTrip",
-"values": ["Afghanistan", "Andorra", "Argentina", "Australia", "Austria", "Bangladesh", "Belize", "Brazil", "Brunei", "Bulgaria", "Burundi", "Canada", "Chile", "China", "Croatia", "Czech Republic (Czechia)", "Denmark", "Egypt", "England", "Finland", "Georgia", "Hong Kong (China)", "Hungary", "Iceland", "India", "Indonesia", "Ireland", "Israel", "Italy", "Jamaica", "Japan", "Latvia", "Lebanon", "Liechtenstein", "Luxembourg", "Madagascar", "Malaysia", "Poland", "Portugal", "Singapore", "United States", "Aland Islands", "Bosnia & Herzegovina", "Cambodia", "Estonia", "Kuwait", "Laos", "Macau", "Morocco", "New Zealand", "Norway", "Palau", "Philippines", "Romania", "Russia", "Scotland", "Slovakia", "South Korea", "Spain", "Sweden", "Switzerland", "Taiwan", "Tanzania", "Thailand", "Turkey", "UAE", "Vietnam", "Wales"]
+"values": ["Afghanistan", "Andorra", "Argentina", "Australia", "Austria", "Bangladesh", "Belize", "Brazil", "Brunei", "Bulgaria", "Canada", "Chile", "China", "Croatia", "Czech Republic (Czechia)", "Denmark", "Egypt", "England", "Finland", "Georgia", "Hong Kong (China)", "Hungary", "Iceland", "Indonesia", "Israel", "Italy", "Jamaica", "Japan", "Latvia", "Lebanon", "Liechtenstein", "Luxembourg", "Madagascar", "Malaysia", "Poland", "Portugal", "Singapore", "United States", "Aland Islands", "Bosnia & Herzegovina", "Cambodia", "Kuwait", "Laos", "Macau", "Morocco", "New Zealand", "Norway", "Palau", "Philippines", "Romania", "Russia", "Scotland", "Slovakia", "South Korea", "Spain", "Sweden", "Switzerland", "Taiwan", "Tanzania", "Thailand", "Turkey", "UAE", "Vietnam", "Wales"]
 },
     {
 "type": " Missing LivWan",
@@ -129,7 +129,7 @@ var json = [
 },
 {
 "type": "Missing National Symbols",
-"values": ["National Animal of Belarus – European Bison", "National Bird of Belarus – White Stork", "National Bird of Japan – Green Pheasant", "National Fish of Japan - Nishikigoi", "National Animal of Poland – European Bison", "National Bird of Poland – White-tailed Eagle", "National Animal of Russia – Eurasian Brown Bear", "National Flower of Russia – Chamomile", "National Animal of the United Kingdom – The Lion", "National Animal of the United Kingdom 2 – British Bulldog", "National Flower of the United Kingdom – Tudor Rose"]
+"values": ["National Animal of Belarus – European Bison", "National Bird of Belarus – White Stork", "National Bird of Japan – Green Pheasant", "National Fish of Japan - Nishikigoi", "National Animal of Poland – European Bison", "National Animal of Russia – Eurasian Brown Bear", "National Flower of Russia – Chamomile", "National Animal of the United Kingdom – The Lion", "National Animal of the United Kingdom 2 – British Bulldog", "National Flower of the United Kingdom – Tudor Rose"]
 },
     {
 "type": " Missing Fantasy Art Keep the Cat",
@@ -141,7 +141,7 @@ var json = [
 },
     {
 "type": " Missing Futuristic National Symbols",
-"values": ["Albania", "Australia", "Bulgaria", "China", "Croatia", "Czech", "Denmark", "Estonia", "Finland", "France", "Germany V3", "Greece", "Hong Kong", "Hungary", "Indonesia", "Israel", "Italy", "Japan", "Latvia", "Luxembourg", "Malaysia", "Malta", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", "Romania", "Serbia", "Singapore", "Slovenia", "Slovakia", "South Korea", "Spain V1", "Spain V2", "Taiwan", "Thailand", "UAE", "USA V1", "USA V3", "Vietnam"]
+"values": ["Albania", "Australia", "Bulgaria", "China", "Croatia", "Czech", "Denmark", "Estonia", "Finland", "France", "Germany V3", "Greece", "Hong Kong", "Hungary", "Indonesia", "Israel", "Italy", "Japan", "Latvia", "Luxembourg", "Malaysia", "Malta", "Netherlands", "New Zealand", "Norway", "Portugal", "Romania", "Serbia", "Singapore", "Slovenia", "Slovakia", "South Korea", "Spain V1", "Spain V2", "Taiwan", "Thailand", "UAE", "USA V1", "USA V3", "Vietnam"]
 },
 {
 "type": "Missing Titina and Friends",
