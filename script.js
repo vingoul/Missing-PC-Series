@@ -105,7 +105,7 @@ var json = [
 },
 {
 "type": "Missing World Fashion Historical",
-"values": ["Hungary", "Japan", "Moldova", "Singapore", "United Kingdom"]
+"values": ["Hungary", "Japan", "Moldova", "Singapore"]
 },
     {
 "type": " Missing Blue Cats WT",
@@ -125,7 +125,7 @@ var json = [
 },
     {
 "type": " Missing LivWan",
-"values": ["Mexico", "Stranger Things Hawkins", "France Food", "South Korea Food", "Argentina", "Italy", "Iceland", "Paris", "Czech Republic", "Cuba", "Notting Hill", "Elephant and Castle", "Brazil", "Greece"]
+"values": ["Mexico", "Stranger Things Hawkins", "France Food", "South Korea Food", "Argentina", "Italy", "Iceland", "Paris", "Czech Republic", "Cuba", "Notting Hill", "Elephant and Castle", "Brazil"]
 },
 {
 "type": "Missing National Symbols",
