@@ -21,7 +21,7 @@ var json = [
     },
     {
         "type": "Missing World Travel by Nisan",
-        "values": ["Algeria", "Andorra", "Anguilla (UK)", "Argentina", "Armenia", "Azerbaijan", "Bosnia and Herzegovina", "Brunei", "Bulgaria", "Burundi", "Cambodia", "Cape Verde", "Colombia", "Cuba", "Democratic Republic of the Congo", "Dominican Republic", "Ecuador", "Egypt", "Georgia", "Gibraltar (UK)", "Iraq", "Jordan", "Kazakhstan", "Latvia", "Lithuania", "Madagascar", "Mexico", "Namibia", "North Korea", "Pakistan", "Palau", "Peru", "Romania", "Rwanda", "Saudi Arabia", "Serbia", "Tajikistan", "Tunisia", "Buen Camino (for WT)", "North Macedonia"]
+        "values": ["Algeria", "Andorra", "Anguilla (UK)", "Argentina", "Armenia", "Azerbaijan", "Bosnia and Herzegovina", "Brunei", "Bulgaria", "Burundi", "Cambodia", "Cape Verde", "Colombia", "Cuba", "Democratic Republic of the Congo", "Dominican Republic", "Ecuador", "Egypt", "Georgia", "Gibraltar (UK)", "Iraq", "Jordan", "Kazakhstan", "Latvia", "Lithuania", "Madagascar", "Mexico", "Namibia", "North Korea", "Pakistan", "Palau", "Peru", "Romania", "Saudi Arabia", "Serbia", "Tajikistan", "Tunisia", "Buen Camino (for WT)", "North Macedonia", "Gambia", "Kyrgyzstan", "Moldova", "Uzbekistan", "Year of the Snake", "Year of the Horse"]
     },
 {
 "type": "Missing HPC",
