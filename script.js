@@ -37,7 +37,7 @@ var json = [
 },
 {
 "type": "Missing FOTW AU",
-"values": ["Algeria", "Angola", "Benin", "Botswana", "Burkina Faso", "Burundi", "Cameroon", "Cape Verde", "Central African Republic", "Chad", "Comoros", "Democratic Republic of the Congo", "Djibouti", "Egypt", "Equatorial Guinea", "Eritrea", "Ethiopia", "Gabon", "Gambia", "Ghana", "Guinea", "Guinea-Bissau", "Ivory Coast", "Lesotho", "Liberia", "Libya", "Madagascar", "Malawi", "Mali", "Mauritania", "Mauritius", "Morocco", "Mozambique", "Namibia", "Niger", "Nigeria", "Republic of the Congo", "Rwanda", "Sao Tom and Principe", "Senegal", "Seychelles", "Sierra Leone", "Somalia", "South Africa", "South Sudan", "Sudan", "Togo", "Tunisia", "Zambia", "Zimbabwe", "Eswatini", "Sahrawi Arab Democratic Republic"]
+"values": ["Algeria", "Angola", "Benin", "Botswana", "Burkina Faso", "Burundi", "Cameroon", "Cape Verde", "Central African Republic", "Chad", "Comoros", "Democratic Republic of the Congo", "Djibouti", "Egypt", "Equatorial Guinea", "Eritrea", "Ethiopia", "Gabon", "Gambia", "Ghana", "Guinea", "Guinea-Bissau", "Ivory Coast", "Lesotho", "Liberia", "Libya", "Madagascar", "Malawi", "Mali", "Mauritania", "Mauritius", "Morocco", "Mozambique", "Namibia", "Niger", "Nigeria", "Republic of the Congo", "Sao Tom and Principe", "Senegal", "Seychelles", "Sierra Leone", "Somalia", "South Africa", "South Sudan", "Sudan", "Togo", "Tunisia", "Zambia", "Zimbabwe", "Eswatini", "Sahrawi Arab Democratic Republic"]
 },
 {
 "type": "Missing FOTW ASEAN",
@@ -45,15 +45,15 @@ var json = [
 },
 {
 "type": "Missing COTW",
-"values": ["Aland Islands (Finland)", "Antigua and Barbuda", "Argentina", "Armenia", "Aruba (Netherlands)", "Bahamas", "Bahrain", "Belarus", "Belize", "Bosnia and Herzegovina", "Brazil", "Brunei", "Bulgaria", "Burundi", "Cambodia", "Cape Verde", "Chile", "Colombia", "Costa Rica", "Croatia", "Cuba", "Djibouti", "Egypt", "French Polynesia (France)", "Gambia", "Georgia", "Grenada", "Guam (USA)", "Haiti", "Hungary", "Iceland", "Iran", "Israel", "Italy", "Jamaica", "Kazakhstan", "Kosovo", "Latvia", "Liechtenstein", "Macau (China)", "Madagascar", "Malta", "Mauritius", "Mexico", "Monaco", "Mongolia", "Morocco", "New Zealand", "Nicaragua", "Oman", "Panama", "Peru", "Puerto Rico", "Russia", "Saint Lucia", "San Marino", "Senegal", "Serbia", "Slovakia", "South Africa", "Sri Lanka", "Turkey", "Uganda", "Vatican City", "Azores", "Zanzibar"]
+"values": ["Aland Islands (Finland)", "Antigua and Barbuda", "Argentina", "Armenia", "Aruba (Netherlands)", "Bahamas", "Bahrain", "Belarus", "Belize", "Bosnia and Herzegovina", "Brazil", "Brunei", "Bulgaria", "Burundi", "Cambodia", "Cape Verde", "Chile", "Colombia", "Costa Rica", "Croatia", "Cuba", "Djibouti", "Egypt", "French Polynesia (France)", "Gambia", "Georgia", "Grenada", "Haiti", "Hungary", "Iceland", "Iran", "Israel", "Italy", "Jamaica", "Kazakhstan", "Kosovo", "Latvia", "Liechtenstein", "Macau (China)", "Madagascar", "Malta", "Mauritius", "Mexico", "Monaco", "Mongolia", "Morocco", "New Zealand", "Nicaragua", "Oman", "Panama", "Peru", "Puerto Rico", "Russia", "Saint Lucia", "San Marino", "Senegal", "Serbia", "Slovakia", "South Africa", "Sri Lanka", "Turkey", "Uganda", "Vatican City", "Azores", "Curacao (Netherlands)", "Trinidad and Tobago", "United Arab Emirates"]
 },
 {
 "type": " Missing WorldCloud",
-"values" : ["Armenia", "Belarus", "Bosnia and Herzegovina", "Brunei", "Chile", "Colombia", "Croatia", "Democratic Republic of the Congo", "Egypt", "Iceland", "Iraq", "Madagascar", "Moldova", "Monaco", "New Zealand", "Rwanda", "Saudi Arabia", "Slovakia", "South Africa", "Trinidad and Tobago", "North Macedonia", "Peru 1 (Lima) ", "Peru 2 (Machu Picchu) ", "Belgium 1 (Brugge) "]
+"values" : ["Armenia", "Belarus", "Bosnia and Herzegovina", "Brunei", "Chile", "Colombia", "Croatia", "Democratic Republic of the Congo", "Egypt", "Iceland", "Iraq", "Madagascar", "Monaco", "New Zealand", "Rwanda", "Saudi Arabia", "Slovakia", "South Africa", "Trinidad and Tobago", "North Macedonia", "Peru 1 (Lima) ", "Peru 2 (Machu Picchu) ", "Belgium 1 (Brugge) "]
 },
 {
 "type": " Missing World Explorer",
-"values": ["Moldova", "Mozambique", "Norway", "Singapore", "United Kingdom"]
+"values": ["Mozambique", "Norway", "Singapore", "United Kingdom"]
 },
 {
 "type": "Missing MOTW",
