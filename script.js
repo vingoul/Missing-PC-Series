@@ -105,15 +105,15 @@ var json = [
 },
     {
 "type": " Missing CCUN",
-"values": ["Austria", "Egypt", "Ireland", "Japan", "Kazakhstan", "Moldova", "New Zealand", "Slovakia", "South Africa", "Turkey", "United Arab Emirates", "Vietnam"]
+"values": ["Austria", "Egypt", "Ireland", "Japan", "Kazakhstan", "New Zealand", "Slovakia", "South Africa", "Turkey", "Vietnam"]
 },
 {
 "type": "Missing World Fashion Historical",
-"values": ["Hungary", "Japan", "Moldova", "Singapore"]
+"values": ["Austria", "Croatia", "Hong Kong (China)", "Hungary", "Japan", "Malta", "Mexico", "Philippines", "Serbia", "Singapore", "Slovakia", "Slovenia", "Ukraine"]
 },
     {
 "type": " Missing Blue Cats WT",
-"values": ["Austria", "Belarus", "Egypt", "Italy", "Mexico", "Portugal", "Romania", "Spain", "Turkey", "UAE", "Belgium", "Australia", "Brazil", "South Korea", "Argentina"]
+"values": ["Austria", "Belarus", "Egypt", "Italy", "Mexico", "Portugal", "Romania", "Spain", "Turkey", "UAE", "Belgium", "Australia", "Brazil", "South Korea", "Argentina", "Lithuania", "Singapore", "Sweden"]
 },
 {
 "type": "Missing WonderPost",
