@@ -5,7 +5,7 @@ var json = [
     },    
     {
         "type": "Missing Greetings From ",
-        "values": ["Argentina", "Armenia", "Austria", "Azerbaijan", "Barbados", "Bolovia", "Colombia", "Costa Rica", "Cuba", "Ecuador", "Kazakhstan", "Kyrgyzstan", "Latvia", "Mauritius", "Mexico", "Moldova", "Romania", "South Africa", "Tajikistan", "Turkey", "Spain Bullfighter (for GF)"]
+        "values": ["Argentina", "Austria", "Azerbaijan", "Barbados", "Bolovia", "Colombia", "Costa Rica", "Cuba", "Ecuador", "Kazakhstan", "Kyrgyzstan", "Latvia", "Mauritius", "Mexico", "Romania", "South Africa", "Tajikistan", "Turkey", "Spain Bullfighter (for GF)"]
     },
     {
         "type": "Missing ICONS",
