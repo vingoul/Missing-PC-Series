@@ -61,15 +61,15 @@ var json = [
 },
 {
 "type": "Missing MOTW - UK Regions",
-"values": ["Placeholder"]
+"values": ["England (London)", " Scotland (Edinburgh)", "Wales (Cardiff)", "Northern Ireland (Belfast)"]
 },
 {
 "type": "Missing MOTW - Germany States",
-"values": ["Placeholder"]
+"values": ["Bremen (Bremen)", "Lower Saxony (Hanover)", "Baden-Wurttemberg (Stuttgart)", "Bavaria (Munich)", "Berlin (Berlin)", "Brandenburg (Potsdam)", "Hamburg (Hamburg)", "Hesse (Wiesbaden)", "Rhineland-Palatinate (Mainz)", "Saarland (Saarbrücken)", "Saxony (Dresden)", "Saxony-Anhalt (Magdeburg)", "Schleswig-Holstein (Kiel)", "North Rhine - Westphalia (Düsseldorf)", "Thuringia (Erfurt)", "Mecklenburg-Vorpommern (Schwerin)"]
 },
 {
 "type": "Missing MOTW - Netherlands Provinces",
-"values": ["Placeholder"]
+"values": ["Drenthe (Assen)", "Flevoland (Lelystad)", "Friesland (Leeuwarden)", "Gelderland (Arnhem)", "Groningen (Groningen)", "Limburg (Maastricht)", "North Brabant (s-Hertogenbosch)", "North Holland (Haarlem)", "Overijssel (Zwolle)", "South Holland (The Hague)", "Utrecht (Utrecht)", "Zeeland (Middelburg)"]
 },
 {
 "type": "Missing MOTW - Belgium Province",
