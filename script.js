@@ -140,8 +140,12 @@ var json = [
 "values": ["Argentina", "Australia", "Austria", "Belarus", "Brazil", "Chile", "China", "Denmark", "England", "Hong Kong", "Hungary", "India", "Indonesia", "Italy", "Japan", "Latvia", "Macau", "Malaysia", "Mexico", "New Zealand", "Norway", "Philippines", "Poland", "Portugal", "Russia", "Singapore", "Slovakia", "Slovenia", "South Korea", "Spain", "Sweden", "Switzerland", "Taiwan", "Thailand", "The Netherlands", "Ukraine", "Uzbekistan"]
 },
     {
-"type": "Missing  Jacky Kho's WonderMeal",
-"values": ["Zambia"]
+"type": "Missing  Jacky Kho's Happy New Year 2026 - Left",
+"values": ["H - China", "A - Taiwan", "P - Austria", "P - Belgium", "Y - France", "N - Germany", "E - Switzerland", "W - Spain", "Y - Norway", "E - Estonia", "A - Belarus", "R - Scotland", "2 - Lithuania", "0 - USA", "2 - Bulgaria", "6 - Malaysia"]
+    },
+    {
+    "type": "Missing  Jacky Kho's Happy New Year 2026 - Right",
+    "values": ["H - Hong Kong", "A - Japan", "P - Czech Republic", "P - The Netherlands", "Y - England", "N - Poland", "E - Italy", "W - Portugal", "Y - Sweden", "E - Finland", "A - Russia", "R - Ireland", "2 - Luxembourg", "0 - Canada", "2 - Romaina", "6 - Singapore"]
 },
     {
 "type": "Missing  Jacky Kho's WonderMeal",
