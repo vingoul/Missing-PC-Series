@@ -148,24 +148,16 @@ var json = [
     "values": ["H - Hong Kong", "A - Japan", "P - Czech Republic", "P - The Netherlands", "Y - England", "N - Poland", "E - Italy", "W - Portugal", "Y - Sweden", "E - Finland", "A - Russia", "R - Ireland", "2 - Luxembourg", "0 - Canada", "2 - Romaina", "6 - Singapore"]
 },
     {
-"type": "Missing  Jacky Kho's WonderMeal",
-"values": ["Zambia"]
+"type": "Missing  Jacky Kho's WPD 2025 Countries",
+"values": ["Australia", "Belarus", "Brazil", "Bulgaria", "Chile", "China", "Hong Kong", "Japan", "Latvia", "Mexico", "New Zealand", "Norway", "Philippines", "Portugal", "Romania", "Russia", "Spain", "South Korea", "Sweden", "Thailand"]
 },
     {
-"type": "Missing  Jacky Kho's WonderMeal",
-"values": ["Zambia"]
-},
-    {
-"type": "Missing  Jacky Kho's WonderMeal",
-"values": ["Zambia"]
-},
-    {
-"type": "Missing  Jacky Kho's WonderMeal",
-"values": ["Zambia"]
+"type": "Missing  Jacky Kho's WPD 2025 Continents",
+"values": ["Africa", "Antarctica", "Oceania", "South America"]
 },
     {
 "type": " Missing LivWan",
-"values": ["Mexico", "Stranger Things Hawkins", "France Food", "South Korea Food", "Argentina", "Italy", "Iceland", "Paris", "Czech Republic", "Cuba", "Notting Hill", "Elephant and Castle", "Brazil"]
+"values": ["Mexico", "Stranger Things Hawkins", "France Food", "Argentina", "Italy", "Iceland", "Paris", "Czech Republic", "Cuba", "Notting Hill", "Elephant and Castle", "Brazil", "Switzerland", "New Zealand", "Tokyo"]
 },
 {
 "type": "Missing National Symbols",
@@ -173,11 +165,11 @@ var json = [
 },
     {
 "type": " Missing Fantasy Art Keep the Cat",
-"values": ["Australia v01", "Australia v02", "Austria", "Bulgaria", "Canada v02", "China v01", "China v02", "China v03", "Croatia", "Cyprus v01", "Cyprus v02", "Denmark", "Estonia", "Finland", "France v01", "Germany v01", "Germany v02", "Germany v03", "Greece", "Hungary v01", "Hungary v02", "Indonesia v02", "Indonesia v03", "Ireland v01", "Ireland v02", "Italy", "Japan v01", "Japan v02", "Latvia", "Lithuania", "Luxembourg v01", "Luxembourg v02", "Malaysia v02", "Malta", "Moldova v01", "Moldova v02", "Norway v01", "Norway v02", "Poland v01", "Poland v02", "Portugal v01", "Portugal v02", "Romania v01", "Romania v02", "Slovakia", "Spain v01", "Spain v02", "Sweden", "Switzerland v01", "Switzerland v02", "Taiwan", "Thassos Greece v01", "Ukraine v01", "Ukraine v02", "United Kingdom v01", "United Kingdom v02"]
+"values": ["Australia v01", "Australia v02", "Austria", "Bulgaria", "Canada v02", "China v01", "China v02", "China v03", "Croatia", "Cyprus v01", "Cyprus v02", "Denmark", "Estonia", "Finland", "France v01", "Germany v01", "Germany v02", "Germany v03", "Hungary v01", "Hungary v02", "Indonesia v02", "Indonesia v03", "Ireland v01", "Ireland v02", "Italy", "Japan v01", "Japan v02", "Latvia", "Lithuania", "Luxembourg v01", "Luxembourg v02", "Malaysia v02", "Malta", "Moldova v01", "Moldova v02", "Norway v01", "Norway v02", "Poland v01", "Poland v02", "Portugal v01", "Portugal v02", "Romania v01", "Romania v02", "Slovakia", "Spain v01", "Spain v02", "Sweden", "Switzerland v01", "Switzerland v02", "Taiwan", "Thassos Greece v01", "Ukraine v01", "Ukraine v02", "United Kingdom v01", "United Kingdom v02"]
 },
 {
 "type": "Missing Fantasy Mail Delivery",
-"values": ["Albania", "Australia", "Austria", "Belgium", "Bulgaria", "China", "Croatia", "Czech", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hong Kong", "Hungary", "Indonesia", "Ireland", "Israel", "Italy", "Japan", "Latvia", "Luxembourg", "Malaysia", "Malta", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", "Romania", "Serbia", "Singapore", "Slovakia", "Slovenia", "South Korea", "Spain", "Switzerland", "Taiwan", "Thailand", "Vietnam"]
+"values": ["Albania", "Australia", "Austria", "Belgium", "Bulgaria", "China", "Croatia", "Czech", "Denmark", "Estonia", "Finland", "France", "Germany", "Hong Kong", "Hungary", "Indonesia", "Ireland", "Israel", "Italy", "Japan", "Latvia", "Luxembourg", "Malaysia", "Malta", "Netherlands", "New Zealand", "Norway", "Poland", "Portugal", "Romania", "Serbia", "Singapore", "Slovenia", "South Korea", "Spain", "Switzerland", "Taiwan", "Thailand", "Vietnam"]
 },
     {
 "type": " Missing Futuristic National Symbols",
@@ -187,6 +179,8 @@ var json = [
 "type": "Missing Titina and Friends",
 "values": ["Placeholder"]
 }
+
+
 ]
 
 
