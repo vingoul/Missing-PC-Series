@@ -178,11 +178,20 @@ var json = [
 {
 "type": "Missing Titina and Friends",
 "values": ["Placeholder"]
-}
-
-
-]
-
+},
+    {
+    "type": "Missing HPC 20 Years of Postcrossing",
+"values": ["Belgium", "France", "Hong Kong", "Italy", "Japan", "Philippines"]
+    },
+    {
+"type": "Missing HPC WPD 2025",
+"values": ["Canada", "Indonesia", "Italy", "Japan", "Liechtenstein", "Philippines", "Portugal", "Singapore", "South Korea", "Spain", "Sweden", "Taiwan", "Thailand", "Ukraine", "United Kingdom", "world postcard day postcard"]
+    },
+    {
+        "type": "Missing PostcardsMarket WPD MOTW 2025",
+        "values": [["Aland Islands", "Australia", "Austria", "Belgium", "Bosnia and Herzegovina", "Brazil", "Bulgaria", "Canada", "China", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hong Kong", "Hungary", "India", "Indonesia", "Ireland", "Israel", "Italy", "Japan", "Kazakhstan", "South Korea", "Latvia", "Lithuania", "Luxembourg", "Malaysia", "Malta", "Netherlands", "New Zealand", "Norway", "Philippines", "Poland", "Portugal", "Romania", "Serbia", "Singapore", "Slovakia", "Slovenia", "South Africa", "Spain", "Sweden", "Switzerland", "Taiwan", "Thailand", "Turkey", "Ukraine", "United Kingdom", "United States", "Vietnam"]
+                   }
+    ]
 
 document.getElementById("searchInput").onkeyup = function () { search() }
 search()
