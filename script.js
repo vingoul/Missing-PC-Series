@@ -73,17 +73,21 @@ var json = [
 },
 {
 "type": "Missing MOTW - Belgium Province",
-"values": ["Placeholder"]
+"values": ["Antwerp (Antwerpen) (Antwerp)", "Brussels Capital Region (Brussels Hoofdstedelijk Gewest) (Brussels City)", "East Flanders (Oost-Vlaanderen) (Ghent)", "Flemish Brabant (Vlaams-Brabant) (Leuven)", "Hainaut (Henegouwen) (Mons)", "Liège (Luik) (Liège)", "Limburg (Limburg) (Hasselt)", "Luxembourg (Luxemburg) (Arlon)", "Namur (Namen) (Namur)", "Walloon Brabant (Waals-Brabant) (Wavre)", "West Flanders (West-Vlaanderen) (Bruges)"]
 },
 {
 "type": "Missing MOTW - Swiss Cantons",
-"values": ["Placeholder"]
+"values": ["Aargau (AG) (Aarau)", "Appenzell Ausserrhoden (AR) (Herisau)", "Appenzell Innerrhoden (AI) (Appenzell)", "Basel Landschaft (BL) (Liestal)", "Basel Stadt (BS) (Basle / Basel)", "Bern / Berne (BE) (Berne / Bern)", "Freiburg / Fribourg (FR) (Friburg / Fribourg)", "Genève (GE) (Geneva)", "Glarus (GL) (Glaris / Glarus)", "Graubünden (GR) (Chur)", "Jura (JU) (Delémont)", "Luzern (LU) (Lucerne)", "Neuchâtel (NE) (Neuchâtel)", "Nidwalden (NW) (Stans)", "Obwalden (OW) (Sarnen)", "Sankt Gallen (SG) (St. Gall / St. Gallen)", "Schaffhausen (SH) (Schaffhouse / Schaffhausen)", "Schwyz (SZ) (Schwyz)", "Solothurn (SO) (Soleure / Solothurn)", "Thurgau (TG) (Frauenfeld)", "Ticino (TI) (Bellinzona)", "Uri (UR) (Altdorf)", "Valais / Wallis (VS) (Sion)", "Vaud (VD) (Lausanne)", "Zug (ZG) (Zoug / Zug)", "Zürich (ZH) (Zurich)"]
 },
 {
 "type": "Missing MOTW - US States",
-"values": ["Placeholder"]
+"values": ["Alabama (Montgomery)", "Alaska (Juneau)", "Arizona (Phoenix)", "Arkansas (Little Rock)", "California (Sacramento)", "Colorado (Denver)", "Connecticut (Hartford)", "Delaware (Dover)", "Florida (Tallahassee)", "Georgia (Atlanta)", "Hawaii (Honolulu)", "Idaho (Boise)", "Illinois (Springfield)", "Indiana (Indianapolis)", "Iowa (Des Moines)", "Kansas (Topeka)", "Kentucky (Frankfort)", "Louisiana (Baton Rouge)", "Maine (Augusta)", "Maryland (Annapolis)", "Massachusetts (Boston)", "Michigan (Lansing)", "Minnesota (Sanit Paul)", "Mississippi (Jackson)", "Missouri (Jefferson City)", "Montana (Helena)", "Nebraska (Lincoln)", "Nevada (Carson City)", "New Hampshire (Concord)", "New Jersey (Trenton)", "New Mexico (Santa Fe)", "New York (Albany)", "North Carolina (Raleigh)", "North Dakota (Bismark)", "Ohio (Columbus)", "Oklahoma (Oklahoma City)", "Oregon (Salem)", "Pennsylvania (Harrisburg)", "Rhode Island (Providence)", "South Carolina (Columbia)", "South Dakota (Pierre)", "Tennessee (Nashville)", "Texas (Austin)", "Utah (Salt Lake City)", "Vermont (Montpelier)", "Virginia (Richmond)", "Washington (Olympia)", "Washington DC ()", "West Virginia (Charleston)", "Wisconsin (Madison)", "Wyoming (Cheyenne)"]
 },
 {
+"type": "Missing MOTW - Canada Province",
+"values": ["Ontario (Toronto)", "Quebec (Quebec City)", "Nova Scotia (Halifax)", "New Brunswick (Fredericton)", "Manitoba (Winnipeg)", "British Columbia (Victoria)", "Prince Edward Island (Charlottetown)", "Saskatchewan (Regina)", "Alberta (Edmonton)", "Newfoundland and Labrador (St. John's)", "Northwest Territories (Yellowknife)", "Yukon (Whitehorse)", "Nunavut (Iqaluit)"]
+},
+    {
 "type": "Missing MOTW EU – Pre Brexit",
 "values": ["Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Luxembourg", "Malta", "Netherlands", "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Sweden", "United Kingdom"]
 },
